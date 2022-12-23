@@ -7,7 +7,7 @@ int main()
 		return a+b;
 	
 	}
-	printf("hello  world");
+	printf("hello  ting");
 	return 0;
 
 }
