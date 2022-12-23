@@ -2,12 +2,13 @@
 
 int main()
 {
+
 	int sum(int a, int b)
 	{
 		return a+b;
 	
 	}
-	printf("hello  ting");
+	printf("hello ting");
 	return 0;
 
 }
